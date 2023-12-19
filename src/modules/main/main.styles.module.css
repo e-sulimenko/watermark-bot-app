@@ -1,0 +1,18 @@
+.main {
+  display: grid;
+  height: 100%;
+  width: 100%;
+  grid-template-rows: 1fr max-content;
+}
+
+.images {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.bgImage {
+  max-height: 100%;
+  width: 100%;
+  object-fit: contain;
+}

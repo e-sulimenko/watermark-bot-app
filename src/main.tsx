@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client'
 
 import { HostPage } from './modules/_host';
 
-import './libs/telegram-web-app.js';
+import './libs/telegram-web-app/telegram-web-app.js';
 import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')!).render(

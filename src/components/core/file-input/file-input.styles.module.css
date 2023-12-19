@@ -1,0 +1,12 @@
+.fileInput {
+  padding: 16px 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--tg-theme-button-color);
+  color: var(--tg-theme-button-text-color);
+}
+
+.input {
+  display: none;
+}
